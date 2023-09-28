@@ -1,4 +1,4 @@
-Projeto NEEC
+Projeto NEEC - MEEC 2023/2024
 WorkShop Github
 Repositorio
 Branch 
@@ -6,3 +6,4 @@ Command ----
 Nanito editor de Textos
 kakakakaka
 alalla
+Mais uma experiencia
